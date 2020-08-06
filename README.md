@@ -1,7 +1,7 @@
 # CharacterBuilderPlugin
  unity character customization tools
  
- # 教學1  tutorial 1 
+ # 教學1  tutorial 1 (with my poor English subtitle)
  [完整教學](https://youtu.be/u8Qak7jCYSk)  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=u8Qak7jCYSk
 " target="_blank"><img src="http://img.youtube.com/vi/u8Qak7jCYSk/0.jpg" 
